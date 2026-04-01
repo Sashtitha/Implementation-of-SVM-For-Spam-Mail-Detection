@@ -17,8 +17,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: PARAVEZHAA M
-RegisterNumber:212225220070
+Developed by: Sashtitha K
+RegisterNumber:212225230253
 
 import chardet
 import pandas as pd
